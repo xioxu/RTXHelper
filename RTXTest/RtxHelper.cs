@@ -155,7 +155,6 @@ namespace TZCPA.ITTicket.Utils
                                                                                return rootDep;
                                                                            });
 
-          //  var ch = RootObj.DeptManager.GetChildDepts("天职国际集团\\天职工程");
             getDepUsers(rootDep, afterRetrivedUserInfo);
         }
 
